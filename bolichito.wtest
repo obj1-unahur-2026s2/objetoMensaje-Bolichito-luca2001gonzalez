@@ -1,0 +1,7 @@
+import cosas.* 
+import bolichito.* 
+import personas.* 
+test "A Rosa le gustan las cosas que pesan 2kg o menos" {
+        // La remera pesa 800g, entonces a Rosa debería gustarle
+        assert.that(estefania.leGusta(placa))
+    }
